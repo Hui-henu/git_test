@@ -2,7 +2,8 @@ package com.zztlj.git;
 
 public class GitTest {
     public static void main(String[] args) {
-        System.out.printf("hello,git");
-        System.out.printf("hello,git2");
+        System.out.println("hello,git");
+        System.out.println("hello,git2");
+        System.out.println("hello,git3");
     }
 }
